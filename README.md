@@ -4,7 +4,7 @@ I’m a University of East Anglia Computer Science graduate with a passion for a
 - 🔐 **[SimpleWarden](https://github.com/William-Harmer/simplewarden)**  
     A tool that syncs email aliases between [Bitwarden](https://bitwarden.com/) and [SimpleLogin](https://simplelogin.io/) to keep the aliases consistent and up to date.
 ## Other Projects: 🛠️
-- 🧠 **[Comparative Analysis of SAT Solvers](https://github.com/William-Harmer/sat-solvers)**  
+- 🧠 **[A Comparative Analysis of SAT Solvers](https://github.com/William-Harmer/sat-solvers)**  
     An undergraduate research project exploring the design, optimisation, and benchmarking of different SAT solvers on CNF formulae.
 - 🔧 **[Custom 3D Engine](https://github.com/William-Harmer/opengl-3d-simulation-engine)**  
     While the code isn’t production-ready and more experimental, I gained hands-on experience with object movement using matrices, multiple camera perspectives, first-person navigation, collision detection via octrees, OBJ model importation, and texture management.
