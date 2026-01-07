@@ -13,7 +13,7 @@ I’m a University of East Anglia Computer Science graduate with a passion for a
 
 
 ## My CV: 📄
-- [Download my CV](WilliamHarmerCV.pdf)
+- <a href="WilliamHarmerCV.pdf" download>Download my CV</a>
 ## Connect With Me: 🤝
 - 💼 [LinkedIn](https://www.linkedin.com/in/your-linkedin-username/)
 - 📧 [contact@williamharmer.co.uk](mailto:your.email@example.com)
