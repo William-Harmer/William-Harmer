@@ -10,10 +10,7 @@ Computer Science graduate keen to get stuck into real software work, contribute 
     While the code isn’t production-ready and more experimental, I gained hands-on experience with object movement using matrices, multiple camera perspectives, first-person navigation, collision detection via octrees, OBJ model importation, and texture management.
 - **[Reale Camiceria](https://realecamiceria.co.uk/)**  
     Complete website rebuild while retaining the existing architecture, implemented according to the owners’ requirements.
-
-
-## My CV: 📄
-- <a href="WilliamHarmerCV.pdf" download>Download my CV</a>
+  
 ## Connect With Me: 🤝
 - [LinkedIn](https://www.linkedin.com/in/william-harmer/)
 - [contact@williamharmer.co.uk](mailto:contact@williamharmer.co.uk)
