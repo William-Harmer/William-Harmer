@@ -1,5 +1,5 @@
 # Hi There, I'm Will 👋
-Computer Science graduate keen to get stuck into real software work, contribute wherever I can, and keep improving as a programmer.  If you have any feedback or would like to collaborate, I would love to hear from you. Please feel free to get in touch.
+Computer Science graduate looking to get stuck into the tech world and develop my experience. I’m passionate about all things technology and keen to continue developing my skills, take on new challenges, and contribute wherever I can. Meeting people, making connections, and learning from those around me are important to me, so if you have any feedback, opportunities, or would like to collaborate, I’d love to hear from you. Please feel free to get in touch.
 ## Currently Working On: 🚧
 - **[SimpleWarden](https://github.com/William-Harmer/simplewarden)**  
     A tool that syncs email aliases between [Bitwarden](https://bitwarden.com/) and [SimpleLogin](https://simplelogin.io/) to keep the aliases consistent and up to date.
